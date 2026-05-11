@@ -12,7 +12,7 @@ bool Button::isPressed() {
 
     if (lastState == HIGH && currentState == LOW) {
         lastState = currentState;
-        delay(200);
+        delay(250);
         return true;
     }
 

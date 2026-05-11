@@ -1,7 +1,10 @@
 #include "Button.h"
 #include "WifiServerManager.h"
 
-Button button(D1);
+const int buttonPin = D2;
+const int ledPin = D1;
+
+Button button(buttonPin);
 
 WifiServerManager wifi(
     "NSELab",
@@ -11,12 +14,18 @@ WifiServerManager wifi(
 bool ledState = false;
 
 void setup() {
+
     Serial.begin(115200);
+
+    pinMode(ledPin, OUTPUT);
+
+    digitalWrite(ledPin, LOW);
 
     wifi.begin();
 }
 
 void loop() {
+
     wifi.checkClient();
 
     if (button.isPressed()) {
@@ -24,10 +33,16 @@ void loop() {
         ledState = !ledState;
 
         if (ledState) {
+
             wifi.sendMessage("1");
+
+            digitalWrite(ledPin, HIGH);
         }
         else {
+
             wifi.sendMessage("0");
+
+            digitalWrite(ledPin, LOW);
         }
     }
 }
