@@ -1,0 +1,4 @@
+var searchData=
+[
+  ['wifiservermanager_0',['WifiServerManager',['../class_wifi_server_manager.html#a348f9d72cd0a6f2ca25da58f4e3e3047',1,'WifiServerManager::WifiServerManager(const char *s, const char *p)'],['../class_wifi_server_manager.html#a750478a427cfa005b6bd4dd7a8a22a30',1,'WifiServerManager::WifiServerManager(const char *s, const char *p, uint16_t port=5555)'],['../class_wifi_server_manager.html#a348f9d72cd0a6f2ca25da58f4e3e3047',1,'WifiServerManager::WifiServerManager(const char *s, const char *p)'],['../class_wifi_server_manager.html#a348f9d72cd0a6f2ca25da58f4e3e3047',1,'WifiServerManager::WifiServerManager(const char *s, const char *p)'],['../class_wifi_server_manager.html#a348f9d72cd0a6f2ca25da58f4e3e3047',1,'WifiServerManager::WifiServerManager(const char *s, const char *p)']]]
+];

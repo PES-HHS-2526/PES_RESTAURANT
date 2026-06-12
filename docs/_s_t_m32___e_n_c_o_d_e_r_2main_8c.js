@@ -1,0 +1,25 @@
+var _s_t_m32___e_n_c_o_d_e_r_2main_8c =
+[
+    [ "Error_Handler", "_s_t_m32___e_n_c_o_d_e_r_2main_8c.html#a1730ffe1e560465665eb47d9264826f9", null ],
+    [ "getFontIndex", "_s_t_m32___e_n_c_o_d_e_r_2main_8c.html#a329c1f7210aaaf1b1bd85bea206fff71", null ],
+    [ "HAL_CAN_RxFifo0MsgPendingCallback", "_s_t_m32___e_n_c_o_d_e_r_2main_8c.html#a7368d39e78009c017d6f81ccf33b9b2c", null ],
+    [ "main", "_s_t_m32___e_n_c_o_d_e_r_2main_8c.html#a840291bc02cba5474a4cb46a9b9566fe", null ],
+    [ "max7219Init", "_s_t_m32___e_n_c_o_d_e_r_2main_8c.html#a87af1fdc9e4b02f4da4d635bcbf2ec76", null ],
+    [ "max7219Send", "_s_t_m32___e_n_c_o_d_e_r_2main_8c.html#a3c389bbe81cef246f8b2c34785565709", null ],
+    [ "microDelay", "_s_t_m32___e_n_c_o_d_e_r_2main_8c.html#a8f2fe2089f53717488ea5abd5434d81d", null ],
+    [ "RGB_Groen", "_s_t_m32___e_n_c_o_d_e_r_2main_8c.html#af6ed3d986b5c37c5c46752afcc32c8e6", null ],
+    [ "RGB_Rood", "_s_t_m32___e_n_c_o_d_e_r_2main_8c.html#afe9247364c4ca26be80517f967e36fa5", null ],
+    [ "RGB_Uit", "_s_t_m32___e_n_c_o_d_e_r_2main_8c.html#a5b7aa9b349c7ddd1d27d746d85f85be5", null ],
+    [ "scrollStep", "_s_t_m32___e_n_c_o_d_e_r_2main_8c.html#abd02fa2ff3c42794d6062d16f4593438", null ],
+    [ "SystemClock_Config", "_s_t_m32___e_n_c_o_d_e_r_2main_8c.html#a70af21c671abfcc773614a9a4f63d920", null ],
+    [ "font", "_s_t_m32___e_n_c_o_d_e_r_2main_8c.html#a37f11253f29d39793697a677a7c4a980", null ],
+    [ "hcan1", "_s_t_m32___e_n_c_o_d_e_r_2main_8c.html#a1618d731d18d69e906e8a357b7cd3c8d", null ],
+    [ "hi2c1", "_s_t_m32___e_n_c_o_d_e_r_2main_8c.html#af7b2c26e44dadaaa798a5c3d82914ba7", null ],
+    [ "hspi1", "_s_t_m32___e_n_c_o_d_e_r_2main_8c.html#a9c6222bae4d0328dd843ae099623b40b", null ],
+    [ "htim1", "_s_t_m32___e_n_c_o_d_e_r_2main_8c.html#a25fc663547539bc49fecc0011bd76ab5", null ],
+    [ "huart2", "_s_t_m32___e_n_c_o_d_e_r_2main_8c.html#aa9479c261d65eecedd3d9582f7f0f89c", null ],
+    [ "knop_state", "_s_t_m32___e_n_c_o_d_e_r_2main_8c.html#a9ac9f0e371154a5fe552603bfbba9244", null ],
+    [ "laatsteDetectie", "_s_t_m32___e_n_c_o_d_e_r_2main_8c.html#a63da4b636167a0bbb4b590c9a25722ec", null ],
+    [ "last_knop", "_s_t_m32___e_n_c_o_d_e_r_2main_8c.html#a371acfd817c6b356b780c65a8c2c62f8", null ],
+    [ "spiData", "_s_t_m32___e_n_c_o_d_e_r_2main_8c.html#a5b915ebf1649d76c978998a972b50809", null ]
+];

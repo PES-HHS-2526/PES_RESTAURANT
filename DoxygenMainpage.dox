@@ -1,0 +1,52 @@
+/*!
+ * @mainpage PES Restaurant Domoticasysteem
+ *
+ * @section intro Introductie
+ *
+ * Dit project bevat de software voor het restaurantgedeelte van het PES
+ * Embedded Systems project. Binnen dit systeem werken meerdere embedded
+ * onderdelen samen, waaronder Wemos D1 Mini modules, STM32-microcontrollers
+ * en Raspberry Pi's.
+ *
+ * De software is verdeeld over meerdere modules. Elke module heeft een eigen
+ * verantwoordelijkheid binnen het restaurantdomoticasysteem.
+ *
+ * @section modules Modules
+ *
+ * Belangrijke onderdelen binnen dit project zijn:
+ *
+ * - CO2_ventilatie: meet de eCO2-waarde en stuurt ventilatiestatussen door.
+ * - WEMOS_TAFEL1: verwerkt klantoproepen vanaf tafel 1.
+ * - WEMOS_TAFEL2: verwerkt klantoproepen vanaf tafel 2.
+ * - WEMOS_RFID-1: verwerkt RFID-functionaliteit.
+ * - WEMOS_LICHTKRANT: stuurt de lichtkrant aan via WiFi.
+ * - RASPBERRY-PI-A: verwerkt socketcommunicatie met Wemos-modules.
+ * - RASPBERRY-PI-B: verwerkt communicatie met Raspberry Pi-A en STM32-modules.
+ * - STM32_ENCODER: verwerkt encoderfunctionaliteit.
+ * - STM32_GIMBAL_BOVEN: stuurt het bovenste gimbalonderdeel aan.
+ * - STM32_GIMBAL_BENEDEN: stuurt het onderste gimbalonderdeel aan.
+ *
+ * @section communication Communicatie
+ *
+ * Binnen het systeem worden verschillende vormen van communicatie gebruikt:
+ *
+ * - WiFi/TCP-sockets tussen Wemos D1 Mini modules en Raspberry Pi-A.
+ * - TCP-sockets tussen Raspberry Pi-A en Raspberry Pi-B.
+ * - CANBUS tussen Raspberry Pi-B en STM32-microcontrollers.
+ *
+ * @section documentation Documentatie
+ *
+ * De code is voorzien van Doxygen-commentaar. Hierdoor kunnen bestanden,
+ * klassen, functies en globale onderdelen automatisch worden omgezet naar
+ * HTML-documentatie.
+ *
+ * Deze documentatie is bedoeld om duidelijk te maken:
+ *
+ * - welke onderdelen het systeem bevat;
+ * - welke functies de modules uitvoeren;
+ * - hoe de software globaal is opgebouwd;
+ * - welke communicatie tussen de onderdelen plaatsvindt.
+ *
+ * @author PES Restaurantgroep B
+ * @date 2026
+ */

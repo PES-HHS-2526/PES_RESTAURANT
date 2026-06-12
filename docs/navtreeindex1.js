@@ -1,0 +1,27 @@
+var NAVTREEINDEX1 =
+{
+"globals_vars.html":[2,1,2],
+"index.html":[],
+"index.html":[0],
+"index.html#communication":[0,2],
+"index.html#documentation":[0,3],
+"index.html#intro":[0,0],
+"index.html#modules":[0,1],
+"main_8cpp.html":[2,0,2,2],
+"main_8cpp.html#a663192037627020d7b409250f64d32dd":[2,0,2,2,0],
+"main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[2,0,2,2,1],
+"main_dashboard_8cpp.html":[2,0,1,4],
+"main_dashboard_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[2,0,1,4,0],
+"main_lichtkrant_8cpp.html":[2,0,1,5],
+"main_lichtkrant_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[2,0,1,5,0],
+"main_socket_8cpp.html":[2,0,1,6],
+"main_socket_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[2,0,1,6,0],
+"pages.html":[],
+"struct_wemos_device.html":[1,0,10],
+"struct_wemos_device.html#a154c44ceca1a01edd459d18606a80b46":[1,0,10,2],
+"struct_wemos_device.html#a4c25cd43ac010435137f2d91e4e21337":[1,0,10,1],
+"struct_wemos_device.html#a9a939e84b737180ffce679084ac8f570":[1,0,10,0],
+"tcpsocketrasberry_8cpp.html":[2,0,2,3],
+"tcpsocketrasberry_8h.html":[2,0,2,4],
+"tcpsocketrasberry_8h_source.html":[2,0,2,4]
+};
